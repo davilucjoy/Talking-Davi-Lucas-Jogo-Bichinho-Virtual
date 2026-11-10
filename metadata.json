@@ -1,0 +1,6 @@
+{
+  "name": "Talking Davi Lucas",
+  "description": "An interactive 3D virtual character game featuring Davi Lucas with physics reactions, voice repeating, hilarious animations, custom outfits, and arcade mini-games.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
